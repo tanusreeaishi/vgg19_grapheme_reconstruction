@@ -210,7 +210,7 @@ def get_grapheme(gr,vd,cd):
         return get_grapheme_root(gr)+get_vowel_diacritic(vd)+get_consonant_diacritic(cd)
 
 
-hf_hub_download(repo_id="samanjoy2/vgg19_banglagrapheme", filename="testvgg.hdf5", local_dir = './')
+hf_hub_download(repo_id="tanusreeaishi/vgg19-grapheme", filename="testvgg.hdf5", local_dir = './')
 
 model.load_weights('testvgg.hdf5')
 
