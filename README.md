@@ -5,11 +5,11 @@ Bengali is the 5th most spoken language in the world with hundreds of millions o
 ## Project Description
 Using VGG19 Model, we are predicting Graphemes from the given image and reconstructing the graphemes.
 
-<img src="https://github.com/samanjoy2/vgg19_grapheme_construction/blob/main/Capture.PNG?raw=true" width="500"/>
+<img src="https://github.com/tanusreeaishi/vgg19_grapheme_reconstruction/blob/main/Capture.PNG?raw=true" width="500"/>
 
 ## Implementation
 
-Streamlit Implementation: https://grapheme-construction-vgg19.streamlit.app/
+Streamlit Implementation: https://vgg19-grapheme-reconstruction.streamlit.app/
 
 ## License
 
